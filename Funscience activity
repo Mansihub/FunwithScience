@@ -1,0 +1,7 @@
+"user have to enter values only"
+{
+  pivalue = 3.141593;
+  circumferencecircle = 2. * pi * radius;
+  areacircle = pi * radius * radius;
+}
+"for calculating circumference and area of circle"
